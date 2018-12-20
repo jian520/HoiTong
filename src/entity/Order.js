@@ -1,0 +1,43 @@
+
+var Order = {
+    contact_address: "",
+    contact_district: "",
+    contact_email: "",
+    contact_name: "",
+    contact_phone: "",
+    contact_region: "",
+    created_at: "",
+    disassemble: 0,
+    drop_off_time: "",
+    furniture: 0,
+    id:0,
+    order_no: "",
+    photo: 0,
+    pick_up_schedule_option: 0,
+    pick_up_schedule_time: "",
+    pick_up_schedule_time_range: "",
+    schedule_time: "",
+    schedule_time_range: "",
+
+    promotion_code: "",
+    remark: "",
+    service_code: "",
+    service_currency: "",
+    service_fee: 0,
+    quantity: '',
+    month: '',
+    service_name: "",
+    service_type: "",
+    service_items: [],
+    status: 0,
+    statusStr: 0,
+    updated_at: "",
+    article_quantity:0,
+    user_id: 0,
+    walk_up_fee: 0,
+    walkup: 0,
+    survey:0,
+}
+
+
+module.exports = Order;

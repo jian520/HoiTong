@@ -1,0 +1,62 @@
+{
+
+  "product": [
+    {
+      "code": "item-1",
+      "name": "文件箱",
+      "price": 25
+    },
+    {
+      "code": "item-2",
+      "name": "標準儲物箱",
+      "price": 40
+    },
+    {
+      "code": "item-3",
+      "name": "大型物品",
+      "price": 69
+    },
+    {
+      "code": "item-4",
+      "name": "掛衣箱",
+      "price": 89
+    }
+  ],
+  "plan": [
+    {
+      "code": "xl-36",
+      "name": "36平方呎計劃",
+      "price": 1299
+
+    },
+    {
+      "code": "xl-48",
+      "name": "48平方呎(實用)",
+      "price": 1699
+    }
+  ],
+  "moving": [
+    {
+      "code": "xl-12",
+      "name": "12平方呎計劃",
+      "price": 650
+
+    },
+    {
+      "code": "xl-12",
+      "name": "12平方呎(實用)",
+      "price": 585
+    },
+    {
+      "code": "xl-12",
+      "name": "12平方呎(實用)",
+      "price": 520
+    }
+
+  ]
+
+
+}
+
+
+
