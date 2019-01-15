@@ -17,14 +17,14 @@ export default class Faq2 extends Component {
 
                 {/*<Text style={styles.title}>2 迷你箱儲存</Text>*/}
                 <Text style={styles.title}>2.1 使用指南</Text>
-                <Text style={styles.title}>2.1.1 Boxtify上門迷你箱如何運作？</Text>
+                <Text style={styles.title}>2.1.1 HoiTong海棠上門迷你箱如何運作？</Text>
 
 
-                <Text style={styles.text}>您只需網上登記賬戶，預約免費的Boxtify儲物箱運送，我們的運送團隊會在預定的日子運送耐用的儲物膠箱及防啟封條到指定地址。您可以選擇即刻收拾物件入箱（我們的司機可以等候20分鐘），或預約運送團隊在其他日子前來收取您的物件。我們的運送團隊將確保您的物件安全儲存在我們的倉庫。
+                <Text style={styles.text}>您只需網上登記賬戶，預約免費的HoiTong海棠儲物箱運送，我們的運送團隊會在預定的日子運送耐用的儲物膠箱及防啟封條到指定地址。您可以選擇即刻收拾物件入箱（我們的司機可以等候20分鐘），或預約運送團隊在其他日子前來收取您的物件。我們的運送團隊將確保您的物件安全儲存在我們的倉庫。
 
-                    當您需要取回物件時，只需登入賬戶，選擇您想取回的儲物箱，我們會在您選定的日子送還您的物件。另外，您可選擇免費預約到Boxtify開箱，本公司會為顧客提供一個舒適的休閒區域原箱提取物件。
+                    當您需要取回物件時，只需登入賬戶，選擇您想取回的儲物箱，我們會在您選定的日子送還您的物件。另外，您可選擇免費預約到HoiTong海棠開箱，本公司會為顧客提供一個舒適的休閒區域原箱提取物件。
 
-                    如有需要儲存大型或重過25公斤物件，可按此選擇Boxtify的移動倉或迷你倉服務。</Text>
+                    如有需要儲存大型或重過25公斤物件，可按此選擇HoiTong海棠的移動倉或迷你倉服務。</Text>
 
                 <Text style={styles.title}>2.1.2如何下單及開始使用服務？</Text>
                 <Text style={styles.text}>只要跟以下簡單步驟網上下單或致電給我們 21750222:</Text>
@@ -74,7 +74,7 @@ export default class Faq2 extends Component {
                             <Text style={styles.text}>回收空箱</Text>
                         </ListItem>
                         <ListItem style={{height: 70}}>
-                            <Text style={styles.text}>預約 Boxtify 到倉開箱服務</Text>
+                            <Text style={styles.text}>預約 HoiTong海棠 到倉開箱服務</Text>
                         </ListItem>
 
 
@@ -335,7 +335,7 @@ export default class Faq2 extends Component {
                     style={styles.text}>我們訂立重量限制是為了保障我們員工搬運時的安全，所以如果我們員工發現你的箱子太重，我們會要求你把存倉物品分成2個箱子，或收取附加費。</Text>
 
 
-                <Text style={styles.title}>2.3.3 Boxtify 儲存箱可以放些甚麼？不可以存放些甚麼？</Text>
+                <Text style={styles.title}>2.3.3 HoiTong海棠 儲存箱可以放些甚麼？不可以存放些甚麼？</Text>
                 <Text style={styles.text}>無論是衣物、書籍、DVD、戶外用品、或任何季節性用品，只要不超過重量限制（標準儲物箱：23kg /大型物品 - 25kg /
                     文件箱或掛衣箱：15kg），都可以交給我們儲存！</Text>
 
@@ -346,7 +346,7 @@ export default class Faq2 extends Component {
 
                 <Text style={styles.title}>2.3.4 我可以用自己的箱子嗎？</Text>
                 <Text
-                    style={styles.text}>我們建議你使用Boxtify箱子，因為我們提供的箱子很耐用、安全和適合封存。若你選擇選用自己的箱子，我們會將其視為大型物件。</Text>
+                    style={styles.text}>我們建議你使用HoiTong海棠箱子，因為我們提供的箱子很耐用、安全和適合封存。若你選擇選用自己的箱子，我們會將其視為大型物件。</Text>
 
                 <Text style={styles.title}>2.3.5 我要如何密封儲存箱？</Text>
                 <Text style={styles.text}>我們把儲存箱運送給你的時候會為你附上封條，讓你密封儲存箱。</Text>
@@ -355,7 +355,7 @@ export default class Faq2 extends Component {
                 <Text style={styles.title}>2.4.1 我最快可以什麼時候收到儲存箱？</Text>
                 <Text style={styles.text}>大概24至48小時內。如果你急需儲存箱，我們會盡力於即日內送到。</Text>
 
-                <Text style={styles.title}>2.4.2 在收到Boxtify儲存箱後，我可以用多少時間收拾我的物品？</Text>
+                <Text style={styles.title}>2.4.2 在收到HoiTong海棠儲存箱後，我可以用多少時間收拾我的物品？</Text>
                 <Text
                     style={styles.text}>最多14日。如果你需要多於14日的時間收拾物品，我們仍會於你收到箱子後第15日開始收費。如你能在派送空箱時20分鐘內完成收拾，我們的員工可以即場收取物品入倉，該程入倉費用全免。</Text>
 

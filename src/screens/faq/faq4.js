@@ -13,10 +13,10 @@ export default class Faq4 extends Component {
 
             <Content padder>
                 <Text style={styles.title}>4.1 使用指南</Text>
-                <Text style={styles.title}>Boxtify迷你倉如何運作？</Text>
-                <Text style={styles.text}>Boxtify上門迷你倉提供方便的一站式儲存服務，我們提供上門搬運及取送服務，適合大型物件，如傢私、電器等。</Text>
+                <Text style={styles.title}>HoiTong海棠迷你倉如何運作？</Text>
+                <Text style={styles.text}>HoiTong海棠上門迷你倉提供方便的一站式儲存服務，我們提供上門搬運及取送服務，適合大型物件，如傢私、電器等。</Text>
                 <Text
-                    style={styles.text}>當您需要取回物件時，只需登入賬戶，選擇您想取回的物件，我們會在您選定的日子送還您的物件。另外，您可選擇免費預約到Boxtify開倉提取，本公司會為顧客提供一個舒適的休閒區域原箱提取物件</Text>
+                    style={styles.text}>當您需要取回物件時，只需登入賬戶，選擇您想取回的物件，我們會在您選定的日子送還您的物件。另外，您可選擇免費預約到HoiTong海棠開倉提取，本公司會為顧客提供一個舒適的休閒區域原箱提取物件</Text>
                 <Text style={styles.text}>標準迷你倉空間由12平方呎起，我們亦會根據你需要儲存的物件，建議所需儲存空間及提供免費報價。</Text>
 
                 <Text style={styles.title}>4.1.2 如何下單及開始使用服務？</Text>
@@ -474,11 +474,11 @@ export default class Faq4 extends Component {
                 <Text style={styles.title}>4.2.3 我不知道需要多少存倉空間，我應該如何做？</Text>
                 <Text style={styles.text}>請致電21750222給我們，告訴我們你的存倉要求，或透過Whatsapp 98409999 或按此發送需要存倉物件的照片給我們。</Text>
                 <Text style={styles.text}>我們的團隊會為你即日報價。當你同意報價後，我們會立即安排入倉時間，就是這麼簡單！</Text>
-                <Text style={styles.title}>4.2.4 我可以只使用數星期的Boxtify上門迷你倉服務嗎？</Text>
+                <Text style={styles.title}>4.2.4 我可以只使用數星期的HoiTong海棠上門迷你倉服務嗎？</Text>
                 <Text style={styles.text}>我們最少存倉時間是1個月。如果你只想使用我們服務數星期，你仍然需要支付1個月的存倉費用。</Text>
 
                 <Text style={styles.title}>4.3 收拾物品</Text>
-                <Text style={styles.title}>4.3.1 我可以存放什麼東西在Boxtify?</Text>
+                <Text style={styles.title}>4.3.1 我可以存放什麼東西在HoiTong海棠?</Text>
                 <Text
                     style={styles.text}>除了危險品（爆炸品、化學品等）、違禁品、動／植物、液體、易碎物件／玻璃、貴重物品、食物、易腐壞物品及鋰電池，大部份物件都可以存放到我們的倉庫。詳細違禁品清單請參閱我們的條款及細則。</Text>
 
@@ -564,7 +564,7 @@ export default class Faq4 extends Component {
                 <Text
                     style={styles.text}>我們團隊會盡快聯絡你確認入倉時間，並把上門收取物件。</Text>
                 <Text
-                    style={styles.text}>另外，您可選擇免費預約到Boxtify開箱，本公司會為顧客提供一個舒適的休閒區域存放物件。(按此)</Text>
+                    style={styles.text}>另外，您可選擇免費預約到HoiTong海棠開箱，本公司會為顧客提供一個舒適的休閒區域存放物件。(按此)</Text>
                 <Text style={styles.title}>4.4.7 運送時間確認後可否更改或取消？</Text>
                 <Text
                     style={styles.text}>如果您能夠於預定收取日三天前下午3時前成功更改或取消收取物件的預約，我們將不收取任何費用，否則會收取HK$300的罰款。</Text>

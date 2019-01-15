@@ -200,7 +200,7 @@ export default class Plan extends Component {
 
 
                     <ListItem itemHeader first>
-                        <Text>若不清楚哪個計劃最適合您，請向客戶服務主任查詢：info@Boxtify.com.hk 或 Whatsapp
+                        <Text>若不清楚哪個計劃最適合您，請向客戶服務主任查詢：info@HoiTong.hk 或 Whatsapp
                             93224993</Text>
                     </ListItem>
 

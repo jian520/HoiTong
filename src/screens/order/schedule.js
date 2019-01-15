@@ -780,7 +780,7 @@ export default class Schedule extends Component {
                     </ListItem>
 
                     <ListItem itemDivider>
-                        <Text>從何途徑認識BOXTIFY？</Text>
+                        <Text>從何途徑認識HoiTong海棠？</Text>
                     </ListItem>
                     <ListItem icon last onPress={() => this.showSurveyPicker()}>
 
@@ -806,5 +806,3 @@ export default class Schedule extends Component {
         );
     }
 }
-
-

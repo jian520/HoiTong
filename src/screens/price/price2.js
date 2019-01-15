@@ -73,7 +73,7 @@ export default class Price2 extends Component {
                 </ListItem>
 
                 <ListItem>
-                    <Text>預約Boxtify到倉開箱服務(按此)</Text>
+                    <Text>預約HoiTong海棠到倉開箱服務(按此)</Text>
                 </ListItem>
                 <ListItem>
                     <Text style={styles.text2}>免費</Text>

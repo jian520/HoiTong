@@ -16,14 +16,14 @@ export default class Faq3 extends Component {
 
                 {/*<Text style={styles.title}>3 移動倉儲存</Text>*/}
                 <Text style={styles.title}>3.1 使用指南</Text>
-                <Text style={styles.title}>3.1.1 Boxtify移動倉如何運作？</Text>
-                <Text style={styles.text}>Boxtify移動倉提供方便的一站式儲存服務，可原倉送到您樓下，方便您儲存物件。適合中型物件，例如:
+                <Text style={styles.title}>3.1.1 HoiTong海棠移動倉如何運作？</Text>
+                <Text style={styles.text}>HoiTong海棠移動倉提供方便的一站式儲存服務，可原倉送到您樓下，方便您儲存物件。適合中型物件，例如:
                     小型傢俬，電子產品，運動裝備等。</Text>
                 <Text
-                    style={styles.text}>當您需要取回物件時，只需登入賬戶，選擇您想取回的儲物箱，我們會在您選定的日子送還您的物件。另外，您可選擇免費預約到Boxtify開箱，本公司會為顧客提供一個舒適的休閒區域原箱提取物件</Text>
+                    style={styles.text}>當您需要取回物件時，只需登入賬戶，選擇您想取回的儲物箱，我們會在您選定的日子送還您的物件。另外，您可選擇免費預約到HoiTong海棠開箱，本公司會為顧客提供一個舒適的休閒區域原箱提取物件</Text>
                 <Text
-                    style={styles.text}>Boxtify移動倉空間有12平方呎(6呎高)，並可因應您需要，自行配置門鎖。我們亦會根據你需要儲存的物件，建議所需儲存空間及提供免費報價。</Text>
-                <Text style={styles.text}>如有需要儲存更大型的物件，可按此選擇Boxtify的迷你倉服務。</Text>
+                    style={styles.text}>HoiTong海棠移動倉空間有12平方呎(6呎高)，並可因應您需要，自行配置門鎖。我們亦會根據你需要儲存的物件，建議所需儲存空間及提供免費報價。</Text>
+                <Text style={styles.text}>如有需要儲存更大型的物件，可按此選擇HoiTong海棠的迷你倉服務。</Text>
 
                 <Text style={styles.title}>3.1.2 如何下單及開始使用服務？</Text>
                 <Text style={styles.text}>請致電21750222給我們，告訴我們你的存倉要求，或透過Whatsapp 98409999或
@@ -32,17 +32,17 @@ export default class Faq3 extends Component {
                 <Text style={styles.text}>我們的團隊會為你即日報價。當你同意報價後，我們會立即安排入倉時間，就是這麼簡單！</Text>
 
                 <Text style={styles.title}>3.2 儲存計劃 / 收費</Text>
-                <Text style={styles.title}>3.2.1 Boxtify移動倉如何運作？</Text>
-                <Text style={styles.text}>Boxtify移動倉提供方便的一站式儲存服務，可原倉送到您樓下，方便您儲存物件。適合中型物件，例如:
+                <Text style={styles.title}>3.2.1 HoiTong海棠移動倉如何運作？</Text>
+                <Text style={styles.text}>HoiTong海棠移動倉提供方便的一站式儲存服務，可原倉送到您樓下，方便您儲存物件。適合中型物件，例如:
                     小型傢俬，電子產品，運動裝備等。</Text>
 
                 <Text
-                    style={styles.text}>當您需要取回物件時，只需登入賬戶，選擇您想取回的儲物箱，我們會在您選定的日子送還您的物件。另外，您可選擇免費預約到Boxtify開箱，本公司會為顧客提供一個舒適的休閒區域原箱提取物件</Text>
+                    style={styles.text}>當您需要取回物件時，只需登入賬戶，選擇您想取回的儲物箱，我們會在您選定的日子送還您的物件。另外，您可選擇免費預約到HoiTong海棠開箱，本公司會為顧客提供一個舒適的休閒區域原箱提取物件</Text>
 
                 <Text
-                    style={styles.text}>Boxtify移動倉空間有12平方呎(6呎高)，並可因應您需要，自行配置門鎖。我們亦會根據你需要儲存的物件，建議所需儲存空間及提供免費報價。</Text>
+                    style={styles.text}>HoiTong海棠移動倉空間有12平方呎(6呎高)，並可因應您需要，自行配置門鎖。我們亦會根據你需要儲存的物件，建議所需儲存空間及提供免費報價。</Text>
 
-                <Text style={styles.text}>如有需要儲存更大型的物件，可按此選擇Boxtify的迷你倉服務。</Text>
+                <Text style={styles.text}>如有需要儲存更大型的物件，可按此選擇HoiTong海棠的迷你倉服務。</Text>
 
                 <Text style={styles.title}>3.2.2 我需要付多少錢？</Text>
                 <Text style={styles.text}>以下收費表僅供參巧，所有收費以報價單為準。</Text>
@@ -107,7 +107,7 @@ export default class Faq3 extends Component {
                 </ListItem>
 
                 <ListItem>
-                    <Text>預約Boxtify到倉開箱服務(按此)</Text>
+                    <Text>預約HoiTong海棠到倉開箱服務(按此)</Text>
                 </ListItem>
                 <ListItem>
                     <Text style={styles.text2}>免費</Text>
@@ -417,11 +417,11 @@ export default class Faq3 extends Component {
 
                     <Text style={styles.text}>我們的團隊會為你即日報價。當你同意報價後，我們會立即安排入倉時間，就是這麼簡單！</Text>
 
-                    <Text style={styles.title}>3.2.5 我可以只使用數星期的Boxtify上門迷你倉服務嗎？</Text>
+                    <Text style={styles.title}>3.2.5 我可以只使用數星期的HoiTong海棠上門迷你倉服務嗎？</Text>
                     <Text style={styles.text}>我們最少存倉時間是1個月。如果你只想使用我們服務數星期，你仍然需要支付1個月的存倉費用。</Text>
 
                     <Text style={styles.title}>3.3 收拾物品</Text>
-                    <Text style={styles.title}>3.3.1 Boxtify移動倉如何運作？</Text>
+                    <Text style={styles.title}>3.3.1 HoiTong海棠移動倉如何運作？</Text>
                     <Text
                         style={styles.text}>除了危險品（爆炸品、化學品等）、違禁品、動／植物、液體、易碎物件／玻璃、貴重物品、食物、易腐壞物品及鋰電池，大部份物件都可以存放到我們的倉庫。詳細違禁品清單請參閱我們的條款及細則。</Text>
 
@@ -478,14 +478,14 @@ export default class Faq3 extends Component {
 
                     <Text style={styles.text}>我們團隊會盡快聯絡你確認出倉時間，並把物品送到府上。</Text>
 
-                    <Text style={styles.text}>另外，您可選擇免費預約到Boxtify開箱，本公司會為顧客提供一個舒適的休閒區域原箱提取物件。(按此)</Text>
+                    <Text style={styles.text}>另外，您可選擇免費預約到HoiTong海棠，本公司會為顧客提供一個舒適的休閒區域原箱提取物件。(按此)</Text>
 
                     <Text style={styles.title}>3.4.6 當物品出倉後，我想把它們再次入倉。應該如何做？</Text>
                     <Text style={styles.text}>只要登入你的帳戶，再到'移動倉儲存'的分頁。只要在'在家中'部分選取你需要入倉的物件，並按下'入倉'。選取你需要入倉的日期和時間。</Text>
 
                     <Text style={styles.text}>我們團隊會盡快聯絡你確認入倉時間，並把上門收取物件。</Text>
 
-                    <Text style={styles.text}>另外，您可選擇免費預約到Boxtify開箱，本公司會為顧客提供一個舒適的休閒區域存放物件。(按此)</Text>
+                    <Text style={styles.text}>另外，您可選擇免費預約到HoiTong海棠開箱，本公司會為顧客提供一個舒適的休閒區域存放物件。(按此)</Text>
 
                     <Text style={styles.title}>3.4.7 運送時間確認後可否更改或取消？</Text>
                     <Text style={styles.text}>如果您能夠於預定收取日三天前下午3時前成功更改或取消收取物件的預約，我們將不收取任何費用，否則會收取HK$300的罰款。</Text>

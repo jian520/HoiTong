@@ -43,7 +43,7 @@ class Home extends Component {
                         </Button>
                     </Left>
                     <Body>
-                    <Title>HoiTong</Title>
+                    <Title>HoiTong海棠迷你倉</Title>
                     </Body>
                     <Right/>
 
@@ -53,85 +53,85 @@ class Home extends Component {
                 <Content>
 
                     <Grid>
-                        {/*<Row>*/}
-                            {/*<Image*/}
-                                {/*style={{*/}
-                                    {/*resizeMode: "cover",*/}
-                                    {/*height: 177,*/}
-                                    {/*width: deviceWidth,*/}
-                                {/*}}*/}
-                                {/*source={banner}*/}
-                            {/*/>*/}
-                        {/*</Row>*/}
-                        {/*<Row>*/}
-                            {/*<Body style={{backgroundColor: "#f2f2f2", alignSelf: "center"}}>*/}
-                            {/*<H1 style={styles.homeSectionTitle}>1. 預訂</H1>*/}
-                            {/*<Text style={styles.iconSectionDesc}>網上或經 App 預訂服務</Text>*/}
-                            {/*<Image*/}
-                                {/*style={styles.iconSectionImg}*/}
-                                {/*source={mobileApp}*/}
-                            {/*/>*/}
-                            {/*<Text style={styles.iconSectionDesc}>檢查帳單</Text>*/}
-                            {/*<Image*/}
-                                {/*style={styles.iconSectionImg}*/}
-                                {/*source={cart}*/}
-                            {/*/>*/}
-                            {/*<Text style={styles.iconSectionDesc}>付款</Text>*/}
-                            {/*<Image*/}
-                                {/*style={styles.iconSectionImg}*/}
-                                {/*source={pay}*/}
-                            {/*/>*/}
-                            {/*<Text style={{height: 60}}/>*/}
-                            {/*</Body>*/}
+                        <Row>
+                            <Image
+                                style={{
+                                    resizeMode: "cover",
+                                    height: 177,
+                                    width: deviceWidth,
+                                }}
+                                source={banner}
+                            />
+                        </Row>
+                        <Row>
+                            <Body style={{backgroundColor: "#f2f2f2", alignSelf: "center"}}>
+                            <H1 style={styles.homeSectionTitle}>1. 預訂</H1>
+                            <Text style={styles.iconSectionDesc}>網上或經 App 預訂服務</Text>
+                            <Image
+                                style={styles.iconSectionImg}
+                                source={mobileApp}
+                            />
+                            <Text style={styles.iconSectionDesc}>檢查帳單</Text>
+                            <Image
+                                style={styles.iconSectionImg}
+                                source={cart}
+                            />
+                            <Text style={styles.iconSectionDesc}>付款</Text>
+                            <Image
+                                style={styles.iconSectionImg}
+                                source={pay}
+                            />
+                            <Text style={{height: 60}}/>
+                            </Body>
 
-                        {/*</Row>*/}
-                        {/*<Row style={styles.section2}>*/}
-                            {/*<Body>*/}
-                            {/*<H1 style={styles.sectionWhiteTitle}>2. 安排取送</H1>*/}
-                            {/*<Text style={styles.sectionWhiteDesc}>致電安排運送日期及特別服務</Text>*/}
-                            {/*<Image*/}
-                                {/*style={styles.iconSectionImg}*/}
-                                {/*source={fax}*/}
-                            {/*/>*/}
-                            {/*<Text style={styles.sectionWhiteDesc}>確認</Text>*/}
-                            {/*<Image*/}
-                                {/*style={styles.iconSectionImg}*/}
-                                {/*source={confirm}*/}
-                            {/*/>*/}
-                            {/*<Text style={{height: 60}}/>*/}
+                        </Row>
+                        <Row style={styles.section2}>
+                            <Body>
+                            <H1 style={styles.sectionWhiteTitle}>2. 安排取送</H1>
+                            <Text style={styles.sectionWhiteDesc}>致電安排運送日期及特別服務</Text>
+                            <Image
+                                style={styles.iconSectionImg}
+                                source={fax}
+                            />
+                            <Text style={styles.sectionWhiteDesc}>確認</Text>
+                            <Image
+                                style={styles.iconSectionImg}
+                                source={confirm}
+                            />
+                            <Text style={{height: 60}}/>
 
-                            {/*</Body>*/}
-                        {/*</Row>*/}
+                            </Body>
+                        </Row>
 
-                        {/*<Row style={styles.section3}>*/}
-                            {/*<Body>*/}
-                            {/*<H1 style={styles.sectionWhiteTitle}>3. 收取及倉存</H1>*/}
-                            {/*<Text style={styles.sectionWhiteDesc}>儲存箱或包裝物料會預先送達</Text>*/}
-                            {/*<Image*/}
-                                {/*style={styles.iconSectionImg}*/}
-                                {/*source={box}*/}
-                            {/*/>*/}
-                            {/*<Text style={styles.sectionWhiteDesc}>包裝及取件</Text>*/}
-                            {/*<Image*/}
-                                {/*style={styles.iconSectionImg}*/}
-                                {/*source={movepack}*/}
-                            {/*/>*/}
-                            {/*<Text style={styles.sectionWhiteDesc}>運送</Text>*/}
-                            {/*<Image*/}
-                                {/*style={styles.iconSectionImg}*/}
-                                {/*source={shipping}*/}
-                            {/*/>*/}
-                            {/*<Text style={styles.sectionWhiteDesc}>安全送達 Boxtify 倉庫</Text>*/}
-                            {/*<Image*/}
-                                {/*style={styles.iconSectionImg}*/}
-                                {/*source={warehouse}*/}
-                            {/*/>*/}
+                        <Row style={styles.section3}>
+                            <Body>
+                            <H1 style={styles.sectionWhiteTitle}>3. 收取及倉存</H1>
+                            <Text style={styles.sectionWhiteDesc}>儲存箱或包裝物料會預先送達</Text>
+                            <Image
+                                style={styles.iconSectionImg}
+                                source={box}
+                            />
+                            <Text style={styles.sectionWhiteDesc}>包裝及取件</Text>
+                            <Image
+                                style={styles.iconSectionImg}
+                                source={movepack}
+                            />
+                            <Text style={styles.sectionWhiteDesc}>運送</Text>
+                            <Image
+                                style={styles.iconSectionImg}
+                                source={shipping}
+                            />
+                            <Text style={styles.sectionWhiteDesc}>安全送達 HoiTong海棠 倉庫</Text>
+                            <Image
+                                style={styles.iconSectionImg}
+                                source={warehouse}
+                            />
 
 
-                            {/*<Text style={{height: 60}}/>*/}
+                            <Text style={{height: 60}}/>
 
-                            {/*</Body>*/}
-                        {/*</Row>*/}
+                            </Body>
+                        </Row>
                         <Row style={styles.section4}>
                             <Body>
                             <Text style={{height: 40}}/>
@@ -177,7 +177,7 @@ class Home extends Component {
                             <Text style={styles.sectionHorizontal2}>除開倉區外，我們的儲存倉庫只限職員進出</Text>
 
 
-                            <H1 style={styles.sectionHorizontal1}>f @Boxtify</H1>
+                            <H1 style={styles.sectionHorizontal1}>f @HoiTong海棠</H1>
 
 
                             <Text style={{height: 60}}/>

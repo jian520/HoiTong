@@ -46,7 +46,7 @@ export default class Faq3 extends Component {
                 <Text style={styles.text}>我們把儲存箱運送給你的時候會為你附上封條，讓你密封儲存箱。</Text>
 
                 <Text style={styles.title}>5.2 保障</Text>
-                <Text style={styles.title}>5.2.1 Boxtify會為我的物品購買保險嗎？</Text>
+                <Text style={styles.title}>5.2.1 HoiTong海棠會為我的物品購買保險嗎？</Text>
                 <Text
                     style={styles.text}>我們會為客人的物件提供保險，而且採取了嚴密的保安措施，使物件得以安全存放。若您需要儲存易碎物件，請確保已將其包裝好。如儲存的物件因包裝不妥等問題而損毀，我們將不會負責。詳情請參閱我們的條款及細則。</Text>
 
@@ -58,7 +58,7 @@ export default class Faq3 extends Component {
 
                 <Text style={styles.title}>5.2.2 如有需要，我應如何提出保險索償？</Text>
                 <Text style={styles.text}>為你妥善保管財物是我們的首要任務。然而，若有需要提出保險索償，請電郵至
-                    support@boxtify.com.hk，我們將會儘快協助處理索償。 提出索償時，請確保你已備妥下列資料：</Text>
+                    support@HoiTong.hk，我們將會儘快協助處理索償。 提出索償時，請確保你已備妥下列資料：</Text>
 
                 <Text style={styles.text}>1. 標題：[你的全名] 的保險索償</Text>
                 <Text style={styles.text}>2. 儲存箱歸還給你的日期</Text>

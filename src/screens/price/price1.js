@@ -48,7 +48,7 @@ export default class Price1 extends Component {
                                 <Text style={styles.text}>回收空箱</Text>
                             </ListItem>
                             <ListItem  style={{height:70}}>
-                                <Text style={styles.text}>預約 Boxtify 到倉開箱服務</Text>
+                                <Text style={styles.text}>預約 HoiTong海棠 到倉開箱服務</Text>
                             </ListItem>
 
 
